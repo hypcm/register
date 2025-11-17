@@ -1,7 +1,7 @@
 [
     {  
         "subdomain": "shs",  
-        "url":  "4811ed9d998f2e1f.vercel-dns-017.com.",
+        "url":  "sharonhs.vercel.app",
         "email": "hi@smth.tech",
         "type": "CNAME"
     }
